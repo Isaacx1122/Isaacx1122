@@ -13,3 +13,10 @@ user@github:~$ ssh isaac@portfolio
 INITIALIZING SYSTEM v9.0:::
 LOADING PROFILE: Isaac Albuquerque
 STATUS: READY FOR DEPLOYMENT
+{
+  "name": "Isaac Albuquerque",
+  "role": "Software Engineering Student",
+  "university": "Uninter",
+  "location": "Brazil",
+  "focus": ["Web Development", "Backend", "Problem Solving"]
+}
