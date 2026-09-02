@@ -1,31 +1,17 @@
-# Hi there, I'm Isaac 👋
-
-### 👨‍💻 Software Engineer & Student
-
-Welcome to my GitHub! I am currently studying software development and building my skills in programming, logic, and problem-solving. 
-
-🌱 **Note:** These projects are just the beginning of my journey as I keep learning, growing, and building new things!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- 🏦 **[banco-py](https://github.com/Isaacx1122/banco-py)**: A banking system developed in Python.
-
----
-
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:A970FF&height=250&section=header&text=Isaac's%20Terminal&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20@%20Uninter&descSize=20&descColor=A970FF" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaacx1122&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacx1122&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Most Used Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING...;SOPHIA+AI+CORE+INITIALIZED;ACCESS+GRANTED" alt="Booting System" />
 </div>
+
+```console
+user@github:~$ ssh isaac@ai-core
+[sudo] password for visitor: *********
+
+INITIALIZING SYSTEM v9.0:::
+LOADING PROTOCOLS...
+[███████████████████████████████████] 100%
+
+STATUS: ONLINE
